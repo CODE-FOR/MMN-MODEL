@@ -1,0 +1,400 @@
+person:         0               arrive                     timestamp 0.9118767711050666
+person:         0       chose server 1                     timestamp 0.9118767711050666
+person:         1               arrive                     timestamp 3.8733170922030986
+person:         1       chose server 1                     timestamp 3.8733170922030986
+person:         2               arrive                     timestamp 6.76874231024143
+person:         2       chose server 1                     timestamp 6.76874231024143
+person:         3               arrive                     timestamp 6.833701698374166
+person:         3       chose server 1                     timestamp 6.833701698374166
+person:         4               arrive                     timestamp 10.234677493530263
+person:         4       chose server 1                     timestamp 10.234677493530263
+person:         5               arrive                     timestamp 10.349543112130874
+person:         5       chose server 1                     timestamp 10.349543112130874
+person:         6               arrive                     timestamp 11.61238161562121
+person:         6       chose server 1                     timestamp 11.61238161562121
+person:         7               arrive                     timestamp 11.79684572382647
+person:         7       chose server 1                     timestamp 11.79684572382647
+person:         8               arrive                     timestamp 13.524585891096256
+person:         8       chose server 1                     timestamp 13.524585891096256
+person:         9               arrive                     timestamp 15.934663814117991
+person:         9       chose server 1                     timestamp 15.934663814117991
+person:        10               arrive                     timestamp 16.832115261137222
+person:        10       chose server 1                     timestamp 16.832115261137222
+person:         0            be served                     timestamp 17.544788261503037
+person:         0                leave                     timestamp 17.544788261503037
+person:        11               arrive                     timestamp 21.134901032386672
+person:        11       chose server 1                     timestamp 21.134901032386672
+person:        12               arrive                     timestamp 23.5951122853603
+person:        12       chose server 1                     timestamp 23.5951122853603
+person:        13               arrive                     timestamp 24.40640169055098
+person:        13       chose server 1                     timestamp 24.40640169055098
+person:        14               arrive                     timestamp 25.01076409343472
+person:        14       chose server 1                     timestamp 25.01076409343472
+person:        15               arrive                     timestamp 32.406027228125026
+person:        15       chose server 1                     timestamp 32.406027228125026
+person:         1            be served                     timestamp 38.92678663004883
+person:         1                leave                     timestamp 38.92678663004883
+person:        16               arrive                     timestamp 43.58550988039626
+person:        16       chose server 1                     timestamp 43.58550988039626
+person:        17               arrive                     timestamp 43.79298479284825
+person:        17       chose server 1                     timestamp 43.79298479284825
+person:        18               arrive                     timestamp 45.46595492284622
+person:        18       chose server 1                     timestamp 45.46595492284622
+person:        19               arrive                     timestamp 52.26489058562603
+person:        19       chose server 1                     timestamp 52.26489058562603
+person:        20               arrive                     timestamp 55.18779669369168
+person:        20       chose server 1                     timestamp 55.18779669369168
+person:        21               arrive                     timestamp 56.34511888405321
+person:        21       chose server 1                     timestamp 56.34511888405321
+person:        22               arrive                     timestamp 59.98058062641816
+person:        22       chose server 1                     timestamp 59.98058062641816
+person:        23               arrive                     timestamp 66.05970637682539
+person:        23       chose server 1                     timestamp 66.05970637682539
+person:        24               arrive                     timestamp 70.92428527522617
+person:        24       chose server 1                     timestamp 70.92428527522617
+person:        25               arrive                     timestamp 74.01980851046976
+person:        25       chose server 1                     timestamp 74.01980851046976
+person:        26               arrive                     timestamp 74.6739973301594
+person:        26       chose server 1                     timestamp 74.6739973301594
+person:        27               arrive                     timestamp 74.99432138275613
+person:        27       chose server 1                     timestamp 74.99432138275613
+person:        28               arrive                     timestamp 75.59203247332842
+person:        28       chose server 1                     timestamp 75.59203247332842
+person:        29               arrive                     timestamp 76.56694405376842
+person:        29       chose server 1                     timestamp 76.56694405376842
+person:        30               arrive                     timestamp 79.77394698116564
+person:        30       chose server 1                     timestamp 79.77394698116564
+person:        31               arrive                     timestamp 82.32130853109419
+person:        31       chose server 1                     timestamp 82.32130853109419
+person:        32               arrive                     timestamp 89.36447918486346
+person:        32       chose server 1                     timestamp 89.36447918486346
+person:        33               arrive                     timestamp 94.3689211246205
+person:        33       chose server 1                     timestamp 94.3689211246205
+person:        34               arrive                     timestamp 95.66680757867661
+person:        34       chose server 1                     timestamp 95.66680757867661
+person:        35               arrive                     timestamp 96.31387291986941
+person:        35       chose server 1                     timestamp 96.31387291986941
+person:        36               arrive                     timestamp 98.01468521353995
+person:        36       chose server 1                     timestamp 98.01468521353995
+person:        37               arrive                     timestamp 98.97793370084217
+person:        37       chose server 1                     timestamp 98.97793370084217
+person:        38               arrive                     timestamp 101.44281167687228
+person:        38       chose server 1                     timestamp 101.44281167687228
+person:        39               arrive                     timestamp 104.25546766691495
+person:        39       chose server 1                     timestamp 104.25546766691495
+person:        40               arrive                     timestamp 105.08667965417865
+person:        40       chose server 1                     timestamp 105.08667965417865
+person:        41               arrive                     timestamp 105.21114192461201
+person:        41       chose server 1                     timestamp 105.21114192461201
+person:        42               arrive                     timestamp 105.45589781022937
+person:        42       chose server 1                     timestamp 105.45589781022937
+person:        43               arrive                     timestamp 108.9612025690818
+person:        43       chose server 1                     timestamp 108.9612025690818
+person:        44               arrive                     timestamp 110.10695880026475
+person:        44       chose server 1                     timestamp 110.10695880026475
+person:        45               arrive                     timestamp 111.59458272554497
+person:        45       chose server 1                     timestamp 111.59458272554497
+person:        46               arrive                     timestamp 113.2143576955848
+person:        46       chose server 1                     timestamp 113.2143576955848
+person:        47               arrive                     timestamp 113.52177324127632
+person:        47       chose server 1                     timestamp 113.52177324127632
+person:        48               arrive                     timestamp 115.58678765892236
+person:        48       chose server 1                     timestamp 115.58678765892236
+person:        49               arrive                     timestamp 116.556170586737
+person:        49       chose server 1                     timestamp 116.556170586737
+person:        50               arrive                     timestamp 118.94446716009605
+person:        50       chose server 1                     timestamp 118.94446716009605
+person:        51               arrive                     timestamp 121.67300934456559
+person:        51       chose server 1                     timestamp 121.67300934456559
+person:        52               arrive                     timestamp 122.35487351546305
+person:        52       chose server 1                     timestamp 122.35487351546305
+person:        53               arrive                     timestamp 124.12486789572614
+person:        53       chose server 1                     timestamp 124.12486789572614
+person:        54               arrive                     timestamp 124.5365043160398
+person:        54       chose server 1                     timestamp 124.5365043160398
+person:        55               arrive                     timestamp 126.13748343668064
+person:        55       chose server 1                     timestamp 126.13748343668064
+person:        56               arrive                     timestamp 130.95667907259292
+person:        56       chose server 1                     timestamp 130.95667907259292
+person:        57               arrive                     timestamp 132.15261372920415
+person:        57       chose server 1                     timestamp 132.15261372920415
+person:        58               arrive                     timestamp 133.7271069813113
+person:        58       chose server 1                     timestamp 133.7271069813113
+person:        59               arrive                     timestamp 140.18186322526242
+person:        59       chose server 1                     timestamp 140.18186322526242
+person:        60               arrive                     timestamp 144.40656784973945
+person:        60       chose server 1                     timestamp 144.40656784973945
+person:        61               arrive                     timestamp 163.39380060151865
+person:        61       chose server 1                     timestamp 163.39380060151865
+person:        62               arrive                     timestamp 163.61307910068473
+person:        62       chose server 1                     timestamp 163.61307910068473
+person:        63               arrive                     timestamp 168.00789077990413
+person:        63       chose server 1                     timestamp 168.00789077990413
+person:        64               arrive                     timestamp 171.69160096332126
+person:        64       chose server 1                     timestamp 171.69160096332126
+person:        65               arrive                     timestamp 171.85991338802563
+person:        65       chose server 1                     timestamp 171.85991338802563
+person:        66               arrive                     timestamp 171.96885747191885
+person:        66       chose server 1                     timestamp 171.96885747191885
+person:        67               arrive                     timestamp 181.1462368932681
+person:        67       chose server 1                     timestamp 181.1462368932681
+person:        68               arrive                     timestamp 181.89878755148544
+person:        68       chose server 1                     timestamp 181.89878755148544
+person:        69               arrive                     timestamp 189.62545461554913
+person:        69       chose server 1                     timestamp 189.62545461554913
+person:        70               arrive                     timestamp 191.0253550681038
+person:        70       chose server 1                     timestamp 191.0253550681038
+person:        71               arrive                     timestamp 191.87386011524873
+person:        71       chose server 1                     timestamp 191.87386011524873
+person:        72               arrive                     timestamp 192.76659945059623
+person:        72       chose server 1                     timestamp 192.76659945059623
+person:        73               arrive                     timestamp 197.91581685189325
+person:        73       chose server 1                     timestamp 197.91581685189325
+person:        74               arrive                     timestamp 199.5903459217287
+person:        74       chose server 1                     timestamp 199.5903459217287
+person:        75               arrive                     timestamp 201.1483093799323
+person:        75       chose server 1                     timestamp 201.1483093799323
+person:        76               arrive                     timestamp 203.1439319745357
+person:        76       chose server 1                     timestamp 203.1439319745357
+person:        77               arrive                     timestamp 203.96558514453588
+person:        77       chose server 1                     timestamp 203.96558514453588
+person:        78               arrive                     timestamp 205.01218434332787
+person:        78       chose server 1                     timestamp 205.01218434332787
+person:        79               arrive                     timestamp 205.22212460773744
+person:        79       chose server 1                     timestamp 205.22212460773744
+person:        80               arrive                     timestamp 210.1675382578895
+person:        80       chose server 1                     timestamp 210.1675382578895
+person:        81               arrive                     timestamp 210.94265435516797
+person:        81       chose server 1                     timestamp 210.94265435516797
+person:        82               arrive                     timestamp 211.79901740849738
+person:        82       chose server 1                     timestamp 211.79901740849738
+person:        83               arrive                     timestamp 214.85679897803846
+person:        83       chose server 1                     timestamp 214.85679897803846
+person:        84               arrive                     timestamp 219.50372012268556
+person:        84       chose server 1                     timestamp 219.50372012268556
+person:        85               arrive                     timestamp 219.51232670085574
+person:        85       chose server 1                     timestamp 219.51232670085574
+person:        86               arrive                     timestamp 225.48857171078149
+person:        86       chose server 1                     timestamp 225.48857171078149
+person:        87               arrive                     timestamp 226.98843251674987
+person:        87       chose server 1                     timestamp 226.98843251674987
+person:        88               arrive                     timestamp 228.58900828745143
+person:        88       chose server 1                     timestamp 228.58900828745143
+person:        89               arrive                     timestamp 239.8839220841412
+person:        89       chose server 1                     timestamp 239.8839220841412
+person:        90               arrive                     timestamp 241.43572198940439
+person:        90       chose server 1                     timestamp 241.43572198940439
+person:        91               arrive                     timestamp 241.85610349731456
+person:        91       chose server 1                     timestamp 241.85610349731456
+person:        92               arrive                     timestamp 246.65053043986774
+person:        92       chose server 1                     timestamp 246.65053043986774
+person:        93               arrive                     timestamp 260.693120967843
+person:        93       chose server 1                     timestamp 260.693120967843
+person:        94               arrive                     timestamp 262.5422942687607
+person:        94       chose server 1                     timestamp 262.5422942687607
+person:        95               arrive                     timestamp 262.950570665775
+person:        95       chose server 1                     timestamp 262.950570665775
+person:        96               arrive                     timestamp 265.2167623508848
+person:        96       chose server 1                     timestamp 265.2167623508848
+person:        97               arrive                     timestamp 265.32194628058465
+person:        97       chose server 1                     timestamp 265.32194628058465
+person:        98               arrive                     timestamp 265.6174908054692
+person:        98       chose server 1                     timestamp 265.6174908054692
+person:        99               arrive                     timestamp 266.4779230617609
+person:        99       chose server 1                     timestamp 266.4779230617609
+person:         2            be served                     timestamp 363.9960944599329
+person:         2                leave                     timestamp 363.9960944599329
+person:         3            be served                     timestamp 421.8516121953939
+person:         3                leave                     timestamp 421.8516121953939
+person:         4            be served                     timestamp 559.6694674980129
+person:         4                leave                     timestamp 559.6694674980129
+person:         5            be served                     timestamp 571.1795501232543
+person:         5                leave                     timestamp 571.1795501232543
+person:         6            be served                     timestamp 640.8473162528301
+person:         6                leave                     timestamp 640.8473162528301
+person:         7            be served                     timestamp 735.4106671920033
+person:         7                leave                     timestamp 735.4106671920033
+person:         8            be served                     timestamp 813.7718774231174
+person:         8                leave                     timestamp 813.7718774231174
+person:         9            be served                     timestamp 871.0154723031477
+person:         9                leave                     timestamp 871.0154723031477
+person:        10            be served                     timestamp 881.3666657419047
+person:        10                leave                     timestamp 881.3666657419047
+person:        11            be served                     timestamp 980.5976256330069
+person:        11                leave                     timestamp 980.5976256330069
+person:        12            be served                     timestamp 1095.4398457333346
+person:        12                leave                     timestamp 1095.4398457333346
+person:        13            be served                     timestamp 1203.045859007358
+person:        13                leave                     timestamp 1203.045859007358
+person:        14            be served                     timestamp 1343.5909296549028
+person:        14                leave                     timestamp 1343.5909296549028
+person:        15            be served                     timestamp 1624.407828874937
+person:        15                leave                     timestamp 1624.407828874937
+person:        16            be served                     timestamp 1681.776785392856
+person:        16                leave                     timestamp 1681.776785392856
+person:        17            be served                     timestamp 1722.2663286346744
+person:        17                leave                     timestamp 1722.2663286346744
+person:        18            be served                     timestamp 1785.926177536951
+person:        18                leave                     timestamp 1785.926177536951
+person:        19            be served                     timestamp 1925.301347258314
+person:        19                leave                     timestamp 1925.301347258314
+person:        20            be served                     timestamp 1982.3596425875212
+person:        20                leave                     timestamp 1982.3596425875212
+person:        21            be served                     timestamp 2218.5175323950516
+person:        21                leave                     timestamp 2218.5175323950516
+person:        22            be served                     timestamp 2359.7200756404245
+person:        22                leave                     timestamp 2359.7200756404245
+person:        23            be served                     timestamp 2426.2200400865067
+person:        23                leave                     timestamp 2426.2200400865067
+person:        24            be served                     timestamp 2442.4178976627
+person:        24                leave                     timestamp 2442.4178976627
+person:        25            be served                     timestamp 2542.680137477174
+person:        25                leave                     timestamp 2542.680137477174
+person:        26            be served                     timestamp 2595.3645867495884
+person:        26                leave                     timestamp 2595.3645867495884
+person:        27            be served                     timestamp 2627.036630051774
+person:        27                leave                     timestamp 2627.036630051774
+person:        28            be served                     timestamp 2896.92455748437
+person:        28                leave                     timestamp 2896.92455748437
+person:        29            be served                     timestamp 3037.4903498963986
+person:        29                leave                     timestamp 3037.4903498963986
+person:        30            be served                     timestamp 3041.8439435753135
+person:        30                leave                     timestamp 3041.8439435753135
+person:        31            be served                     timestamp 3143.5637806957243
+person:        31                leave                     timestamp 3143.5637806957243
+person:        32            be served                     timestamp 3273.851364501386
+person:        32                leave                     timestamp 3273.851364501386
+person:        33            be served                     timestamp 3288.037761091425
+person:        33                leave                     timestamp 3288.037761091425
+person:        34            be served                     timestamp 3439.138425279141
+person:        34                leave                     timestamp 3439.138425279141
+person:        35            be served                     timestamp 3550.1469412066917
+person:        35                leave                     timestamp 3550.1469412066917
+person:        36            be served                     timestamp 3782.494559059283
+person:        36                leave                     timestamp 3782.494559059283
+person:        37            be served                     timestamp 3990.896940602891
+person:        37                leave                     timestamp 3990.896940602891
+person:        38            be served                     timestamp 4074.8933554440887
+person:        38                leave                     timestamp 4074.8933554440887
+person:        39            be served                     timestamp 4081.8425769730807
+person:        39                leave                     timestamp 4081.8425769730807
+person:        40            be served                     timestamp 4204.0336666749645
+person:        40                leave                     timestamp 4204.0336666749645
+person:        41            be served                     timestamp 4293.131588514606
+person:        41                leave                     timestamp 4293.131588514606
+person:        42            be served                     timestamp 4325.7629477942955
+person:        42                leave                     timestamp 4325.7629477942955
+person:        43            be served                     timestamp 4328.511683011889
+person:        43                leave                     timestamp 4328.511683011889
+person:        44            be served                     timestamp 4387.740160715472
+person:        44                leave                     timestamp 4387.740160715472
+person:        45            be served                     timestamp 4553.384043013177
+person:        45                leave                     timestamp 4553.384043013177
+person:        46            be served                     timestamp 4634.455641784325
+person:        46                leave                     timestamp 4634.455641784325
+person:        47            be served                     timestamp 4743.434186896444
+person:        47                leave                     timestamp 4743.434186896444
+person:        48            be served                     timestamp 4974.615805030288
+person:        48                leave                     timestamp 4974.615805030288
+person:        49            be served                     timestamp 5041.456627447267
+person:        49                leave                     timestamp 5041.456627447267
+person:        50            be served                     timestamp 5066.855587374962
+person:        50                leave                     timestamp 5066.855587374962
+person:        51            be served                     timestamp 5420.770114200502
+person:        51                leave                     timestamp 5420.770114200502
+person:        52            be served                     timestamp 5433.800606739724
+person:        52                leave                     timestamp 5433.800606739724
+person:        53            be served                     timestamp 5454.35263309555
+person:        53                leave                     timestamp 5454.35263309555
+person:        54            be served                     timestamp 5486.358666973649
+person:        54                leave                     timestamp 5486.358666973649
+person:        55            be served                     timestamp 5768.822498838945
+person:        55                leave                     timestamp 5768.822498838945
+person:        56            be served                     timestamp 5777.278288794463
+person:        56                leave                     timestamp 5777.278288794463
+person:        57            be served                     timestamp 5830.683962668851
+person:        57                leave                     timestamp 5830.683962668851
+person:        58            be served                     timestamp 6126.280270893836
+person:        58                leave                     timestamp 6126.280270893836
+person:        59            be served                     timestamp 6348.367955787958
+person:        59                leave                     timestamp 6348.367955787958
+person:        60            be served                     timestamp 6466.117571901408
+person:        60                leave                     timestamp 6466.117571901408
+person:        61            be served                     timestamp 6869.061621944567
+person:        61                leave                     timestamp 6869.061621944567
+person:        62            be served                     timestamp 6986.948017875081
+person:        62                leave                     timestamp 6986.948017875081
+person:        63            be served                     timestamp 7018.645077678805
+person:        63                leave                     timestamp 7018.645077678805
+person:        64            be served                     timestamp 7088.140267740736
+person:        64                leave                     timestamp 7088.140267740736
+person:        65            be served                     timestamp 7164.994415494738
+person:        65                leave                     timestamp 7164.994415494738
+person:        66            be served                     timestamp 7198.667376135231
+person:        66                leave                     timestamp 7198.667376135231
+person:        67            be served                     timestamp 7215.189951985608
+person:        67                leave                     timestamp 7215.189951985608
+person:        68            be served                     timestamp 7237.756526889909
+person:        68                leave                     timestamp 7237.756526889909
+person:        69            be served                     timestamp 7298.97527073909
+person:        69                leave                     timestamp 7298.97527073909
+person:        70            be served                     timestamp 7308.406530792686
+person:        70                leave                     timestamp 7308.406530792686
+person:        71            be served                     timestamp 7447.4483180442585
+person:        71                leave                     timestamp 7447.4483180442585
+person:        72            be served                     timestamp 7521.467088221133
+person:        72                leave                     timestamp 7521.467088221133
+person:        73            be served                     timestamp 7684.020708697591
+person:        73                leave                     timestamp 7684.020708697591
+person:        74            be served                     timestamp 7699.672931050281
+person:        74                leave                     timestamp 7699.672931050281
+person:        75            be served                     timestamp 7803.093991447459
+person:        75                leave                     timestamp 7803.093991447459
+person:        76            be served                     timestamp 7830.643198037521
+person:        76                leave                     timestamp 7830.643198037521
+person:        77            be served                     timestamp 8172.380885009223
+person:        77                leave                     timestamp 8172.380885009223
+person:        78            be served                     timestamp 8193.044038548578
+person:        78                leave                     timestamp 8193.044038548578
+person:        79            be served                     timestamp 8234.130508102779
+person:        79                leave                     timestamp 8234.130508102779
+person:        80            be served                     timestamp 8252.75249020148
+person:        80                leave                     timestamp 8252.75249020148
+person:        81            be served                     timestamp 8254.062669199215
+person:        81                leave                     timestamp 8254.062669199215
+person:        82            be served                     timestamp 8264.468813586376
+person:        82                leave                     timestamp 8264.468813586376
+person:        83            be served                     timestamp 8431.230397123116
+person:        83                leave                     timestamp 8431.230397123116
+person:        84            be served                     timestamp 8464.8438424895
+person:        84                leave                     timestamp 8464.8438424895
+person:        85            be served                     timestamp 8602.989280893396
+person:        85                leave                     timestamp 8602.989280893396
+person:        86            be served                     timestamp 8764.95176432307
+person:        86                leave                     timestamp 8764.95176432307
+person:        87            be served                     timestamp 8781.840001249187
+person:        87                leave                     timestamp 8781.840001249187
+person:        88            be served                     timestamp 8789.309238991937
+person:        88                leave                     timestamp 8789.309238991937
+person:        89            be served                     timestamp 8946.859524665964
+person:        89                leave                     timestamp 8946.859524665964
+person:        90            be served                     timestamp 9016.348236467518
+person:        90                leave                     timestamp 9016.348236467518
+person:        91            be served                     timestamp 9088.46633507495
+person:        91                leave                     timestamp 9088.46633507495
+person:        92            be served                     timestamp 9120.84330051675
+person:        92                leave                     timestamp 9120.84330051675
+person:        93            be served                     timestamp 9425.77772787227
+person:        93                leave                     timestamp 9425.77772787227
+person:        94            be served                     timestamp 9428.573052253383
+person:        94                leave                     timestamp 9428.573052253383
+person:        95            be served                     timestamp 9467.695617481808
+person:        95                leave                     timestamp 9467.695617481808
+person:        96            be served                     timestamp 9729.125066299202
+person:        96                leave                     timestamp 9729.125066299202
+person:        97            be served                     timestamp 9758.493967905371
+person:        97                leave                     timestamp 9758.493967905371
+person:        98            be served                     timestamp 9803.29817227334
+person:        98                leave                     timestamp 9803.29817227334
+person:        99            be served                     timestamp 10049.660267358313
+person:        99                leave                     timestamp 10049.660267358313
